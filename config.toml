@@ -12,12 +12,6 @@ sidebarabout = ["I am a creative illustrator and graphic designer with more than
 style = "blue"
 [params.social]
 email = "email@example.com"
-github = "full profile url in github"
-googleplus = "full profile url in googleplus"
-instagram = "full profile url in instagram"
-linkedin = "full profile url in linkedin"
-stackoverflow = "full profile url in stackoverflow"
-twitter = "full profile url in twitter"
 [[params.navlinks]]
 name = "Home"
 url = ""
