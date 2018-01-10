@@ -12,6 +12,7 @@ sidebarabout = ["I am a creative illustrator and graphic designer with more than
 style = "blue"
 [params.social]
 email = "info@sappayabatra.com"
+facebook = "full page or profile url in facebook"
 [[params.navlinks]]
 name = "Home"
 url = ""
