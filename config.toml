@@ -20,5 +20,5 @@ url = ""
 name = "เกี่ยวกับเรา"
 url = "about/"
 [[params.navlinks]]
-name = "Get in touch"
+name = "ติดต่อ"
 url = "contact/"
