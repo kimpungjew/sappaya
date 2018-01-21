@@ -10,7 +10,7 @@ weight = 1
 
 \(Teflon Coated Monk Bowl Set 6 inches and Ordination Set)
 
- <!--more-->
+<!--more-->
 
 ![](/img/portfolio/label-clothes.jpg)
 
@@ -32,10 +32,10 @@ weight = 1
 
 8\. กล่องเข็มด้าย (Needle & Thread)
 
-> 
->
 > น้ำหนักบาตรพร้อมฝาบาตร
 >
-> ราคาที่ระบุ รวมค่าขนส่งทั่วประเทศโดย Kerry Express
+> ราคารวมค่าขนส่งทั่วประเทศ
 
 ## ราคารวมค่าขนส่ง
+
+ราคาที่ระบุ รวมค่าขนส่งทั่วประเทศโดย Kerry Express
