@@ -1,6 +1,6 @@
 +++
 date = "2018-01-08T08:28:22+07:00"
-image = "img/portfolio/ipad-air-2.jpg"
+image = "/uploads/2018/02/11/383841.jpg"
 showonlyimage = false
 title = "บาตรแสตนเลส 9 นิ้ว"
 weight = 2
