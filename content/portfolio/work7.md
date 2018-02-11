@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:57:40+05:30"
-image = "/uploads/2018/02/11/383762.jpg"
+image = "/uploads/2018/02/11/383768.jpg"
 showonlyimage = false
 title = "บาตรแสตนเลส 6 นิ้ว"
 weight = 1
@@ -12,7 +12,7 @@ weight = 1
 
 <!--more-->
 
-![](/img/portfolio/label-clothes.jpg)
+![](/uploads/2018/02/11/383762.jpg)
 
 ภายในชุดประกอบด้วย (Set Included)
 
