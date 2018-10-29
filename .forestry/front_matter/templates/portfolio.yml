@@ -39,10 +39,10 @@ fields:
   hidden: false
   default: true
 pages:
-- content/portfolio/work7.md
-- content/portfolio/work6.md
-- content/portfolio/work2.md
-- content/portfolio/work4.md
-- content/portfolio/work5.md
-- content/portfolio/work3.md
 - content/portfolio/work8.md
+- content/portfolio/work3.md
+- content/portfolio/work5.md
+- content/portfolio/work4.md
+- content/portfolio/work2.md
+- content/portfolio/work6.md
+- content/portfolio/work7.md
