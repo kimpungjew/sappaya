@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/portfolio/gallery.md
 - content/portfolio/work7.md
 - content/portfolio/work8.md
 - content/portfolio/work3.md
