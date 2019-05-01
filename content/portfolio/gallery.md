@@ -1,6 +1,5 @@
 +++
 date = "2019-05-01T09:00:00+07:00"
-draft = true
 image = "/uploads/2019/05/01/P2190310(Watermark).jpg"
 showonlyimage = false
 title = "Gallery"
